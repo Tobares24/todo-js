@@ -2,4 +2,4 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+Para ejecutar este repositorio en el navegador, deberán ejecutar el comando ```npm run dev```
